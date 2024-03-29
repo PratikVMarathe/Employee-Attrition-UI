@@ -25,20 +25,20 @@ efficiently, and increase employee retention, all of which boost organizational 
 ## List of top 12 features in synthetic balanced data 
 - Number of Projects
 - Average 
--Percent Remote
-LinkedIn Hits
-Employee Engagement
-Time Spend in Company
-Number of Projects 
-Average Monthly Hours 
-Percent Remote 
-LinkedIn Hits 
-Employee Engagement 
-Time Spend in Company 
-Employee Role 
-Employee Satisfaction 
-Salary 
-Employee  
-Position 
-Remote Work 
-Employee Competitive
+- Percent Remote
+- LinkedIn Hits
+- Employee Engagement
+- Time Spend in Company
+- Number of Projects 
+- Average Monthly Hours 
+- Percent Remote 
+- LinkedIn Hits 
+- Employee Engagement 
+- Time Spend in Company 
+- Employee Role 
+- Employee Satisfaction 
+- Salary 
+- Employee  
+- Position 
+- Remote Work 
+- Employee Competitive
