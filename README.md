@@ -38,7 +38,6 @@ efficiently, and increase employee retention, all of which boost organizational 
 - Employee Role 
 - Employee Satisfaction 
 - Salary 
-- Employee  
-- Position 
+- Employee Position 
 - Remote Work 
 - Employee Competitive
